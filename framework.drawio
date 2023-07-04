@@ -1,41 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T07:19:48.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.4.0" etag="hy75PZ_Prc_ZGx_Kmpo7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T08:43:29.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lRBY3TnFeLjiRJcHDT9l" version="21.4.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="24" y="339" width="240" height="210" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="295" y="339" width="240" height="210" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="569" y="339" width="240" height="210" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="24" y="565" width="786" height="110" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-7" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="21" y="180" width="786" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-8" value="聊天接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="24" y="109" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-9" value="网页版" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="109" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="110" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-11" value="接口引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104" y="349" width="76" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-12" value="税务知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="348" width="76" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-13" value="用户数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="349" width="76" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-14" value="税务数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="599" width="100" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="599" width="100" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="599" width="100" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="599" width="100" height="44.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="22" y="260" width="786" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-19" value="安全过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="274.5" width="76" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-20" value="偏好反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="274.5" width="76" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-21" value="整合模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="274.5" width="76" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488" y="274.5" width="76" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
