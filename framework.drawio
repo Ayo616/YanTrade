@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T02:12:13.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9-5Ar-o1W30Gldy7qq7T" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T02:17:06.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="To1j67b5VVtfSR0Q48zf" version="21.6.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2074" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="x8nBXtsITXjmfS0OLeBi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;perimeterSpacing=0;fillColor=#B82525;strokeColor=#B09500;fontFamily=Garamond;fontColor=#000000;fontStyle=1;gradientColor=#FF6B2B;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="24" y="339" width="240" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="x8nBXtsITXjmfS0OLeBi-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;perimeterSpacing=0;fillColor=#FFFF00;strokeColor=#B09500;fontFamily=Garamond;fontColor=#000000;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;perimeterSpacing=0;fillColor=#FFFF00;strokeColor=#F2F2F2;fontFamily=Garamond;fontColor=#000000;fontStyle=1;shadow=1;gradientColor=#EAECAC;" parent="1" vertex="1">
           <mxGeometry x="295" y="339" width="240" height="210" as="geometry" />
         </mxCell>
         <mxCell id="x8nBXtsITXjmfS0OLeBi-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;perimeterSpacing=0;fillColor=#009100;strokeColor=#B09500;fontFamily=Garamond;fontColor=#000000;fontStyle=1;gradientColor=#61FF61;shadow=1;" parent="1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="x8nBXtsITXjmfS0OLeBi-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;perimeterSpacing=0;fillColor=#FFFFFF;strokeColor=#2D7600;fontFamily=Garamond;fontColor=#ffffff;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="24" y="565" width="786" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="x8nBXtsITXjmfS0OLeBi-7" value="&lt;font color=&quot;#000000&quot;&gt;LLM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;perimeterSpacing=0;fillColor=#FFFFFF;strokeColor=#2D7600;fontFamily=Garamond;fontColor=#ffffff;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="x8nBXtsITXjmfS0OLeBi-7" value="&lt;font color=&quot;#000000&quot;&gt;Large Language Model&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;perimeterSpacing=0;fillColor=#FFFFFF;strokeColor=#2D7600;fontFamily=Garamond;fontColor=#ffffff;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="21" y="180" width="786" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x8nBXtsITXjmfS0OLeBi-8" value="Chatbot Api" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=2;perimeterSpacing=0;fillColor=#477CCC;strokeColor=#CCCCC0;fontFamily=Garamond;fontColor=#ffffff;fontStyle=1;shadow=1;" parent="1" vertex="1">
